@@ -1,6 +1,6 @@
 # FinancialServicesCloud Objects(Last Updated: Winter '18)
 
-### FSC Objects - Core And Referral Management
+### FSC Objects - Core Objects And Referral Management
 
 * **Account** (Std. Object) -- Used to track Active or Inactive Clients, Prospects, Spouse, Partner, Dependents
   * Record Types 
