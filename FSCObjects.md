@@ -38,7 +38,7 @@
     * Indicates whether the billing Address is this Individual's Primary Address (TRUE) or not (FALSE)
 * **User** (Std. Object) -- Represents a User in your Organization
 
-### Features - Relationships & Roles
+## Features - Relationships & Roles
 
 * **AccountAccountRelation** (Custom Object) -- Represents a relationship between two accounts, such as between a household and a business account.
   * Account__c 
@@ -85,7 +85,7 @@
       * Contact Contact Relation
       * Account Account Relation
     
-#### Features - Individual Information
+## Features - Individual Information
 
 * **Education** -- Represents an Individual's Education Background
 * **Employment** -- Represents Information about an Individual's Employment History
@@ -106,16 +106,16 @@
     * New Job
     * Retirement
 
-#### Features - Events & Tasks
+## Features - Events & Tasks
 
 * **Events** (Std. Object) -- Represents an Event associated with a client
 * **Tasks** (Std. Object) -- Represents a Task associated with a client
    
-#### Features - External Alerts
+## Features - External Alerts
   
 * **Alert** -- Represents notification to alert advisors about client Accounts.
 
-#### Features - Financial Accounts
+## Features - Financial Accounts
 
 * **Financial Account** -- Represents a financial Account such as Investment Account, Bank Account or Insurance Policy
   * FinancialAccountTypes__c
@@ -178,7 +178,7 @@
 * **Card** -- Represents Credit or Debit Card associated with this financial account. 
 * **ChargeAndFees** -- Represents agreed-to fees and charge for servicing individual's financial accounts.
 
-#### Features - Action Plans
+## Features - Action Plans
 
 * **ActionPlan** -- Represents the instance of Action Plan, a set of tasks created from a Action Plan Template
 * **ActionPlanItem** -- Represents the instance of ActionPlan Item
@@ -190,7 +190,7 @@
 * **ActionPlanTemplateVersion** -- Represents Action Plan Template Version History.
 
 
-#### FSC Config Objects & Custom Metadata Objects
+## FSC Config Objects & Custom Metadata Objects
 
 * **WealthAppConfig** -- Represents configuration information for Financial Services Cloud functionality
 * **IndividualRecordTypeMapper** -- Maps a new custom Individual record type to the standard Individual record type from Financial Services Cloud.
