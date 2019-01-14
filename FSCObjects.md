@@ -38,7 +38,7 @@
     * Indicates whether the billing Address is this Individual's Primary Address (TRUE) or not (FALSE)
 * **User** (Std. Object) -- Represents a User in your Organization
 
-#### Features - Relationships & Roles
+### Features - Relationships & Roles
 
 * **AccountAccountRelation** (Custom Object) -- Represents a relationship between two accounts, such as between a household and a business account.
   * Account__c 
