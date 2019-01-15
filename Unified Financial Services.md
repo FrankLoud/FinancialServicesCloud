@@ -1,8 +1,3 @@
-### Key FSC Contacts
-
-* Trevor Opris - Senior Manager, Industry Solutions
-* Ramon Neal - Product Architect, FSC
-
 ### Salesforce Vision on FSC
 
 * Decades of complexity are slowing transformation 
