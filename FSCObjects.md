@@ -5,6 +5,8 @@
   * Person Account Object Model **[Recommended Version]**
 * Financial Service Cloud started providing support for Person Account in Spring '18
 * All the custom objects related to Financial Services Cloud will have **FinServ** Prefix in their object names
+* Out of the Box, there are total of 22 Custom Objects which are available as part of FSC.
+* Five Std. Objects Include: Person Account, Contact, Opportunities, Groups, Leads.
 
 ## FSC Functional Data Model at A Glance
 
@@ -12,7 +14,33 @@
 
 ## FSC Objects - Functional Overview
 
-* 
+
+### Main Profiles in FSC
+
+* Advisor (Used in Wealth Management Space)
+* Banker (Retail Management Space)
+* System Admin
+
+### Business Process FSC Automates or Supports
+
+* Customer 360 [Common Concept in Retail Banking and Wealth Management]
+* Referrals [Common Concept in Retail Banking and Wealth Management]
+* Book of Business [Specific to Wealth Management Domain]
+* Households [Specific to Wealth Management Domain]
+
+* Retail Banking traditially have **Account Centric** Banking. Retail Banking can adopt **Customer Centric** banking by using Book of Business and Households.
+
+### FSC Objects Categorization
+
+* Customers
+* Bank Accounts
+* KYC
+* Households
+
+### Person Account - (Customer)
+
+* It is a Std. Account Object. Holds all the information about a Person
+* When we use Person Account, the Account and Contact are married to support B2C Concept
 
 
 ## FSC Objects - Core Objects And Referral Management
