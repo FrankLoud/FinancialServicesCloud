@@ -1,5 +1,20 @@
 # FinancialServicesCloud Objects(Last Updated: Winter '18)
 
+* Financial Services Cloud has 2 versions depending on whether we use person Account feature or not.
+  * Individual Object Model
+  * Person Account Object Model **[Recommended Version]**
+* Financial Service Cloud started providing support for Person Account in Spring '18
+* All the custom objects related to Financial Services Cloud will have **FinServ** Prefix in their object names
+
+## FSC Functional Data Model at A Glance
+
+![image](https://user-images.githubusercontent.com/2145211/51216433-0366e680-18ea-11e9-8f55-23f6467124a1.png)
+
+## FSC Objects - Functional Overview
+
+* 
+
+
 ## FSC Objects - Core Objects And Referral Management
 
 * **Account** (Std. Object) -- Used to track Active or Inactive Clients, Prospects, Spouse, Partner, Dependents
