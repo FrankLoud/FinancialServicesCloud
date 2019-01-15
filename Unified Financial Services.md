@@ -6,6 +6,7 @@
 ### Salesforce Vision on FSC
 
 * Decades of complexity are slowing transformation 
+* This prevents Unified Customer Experience
 
 ### Types of FSC Markets
   * Retail & Premier Banking
