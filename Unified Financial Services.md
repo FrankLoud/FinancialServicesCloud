@@ -12,6 +12,7 @@
   * Business & Commercial Banking
   * Wealth Management
   * Insurance
+  * Asset Management (Coming Soon!)
 
 ### How does FSC Fit into Salesforce EcoSystem?
 
