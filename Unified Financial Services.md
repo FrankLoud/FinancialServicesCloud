@@ -1,4 +1,4 @@
-### FSC Key Contacts
+### Key FSC Contacts
 
 * Trevor Opris - Senior Manager, Industry Solutions
 * Ramon Neal - Product Architect, FSC
@@ -7,7 +7,7 @@
 
 * Decades of complexity are slowing transformation 
 
-* Types of FSC Markets
+### Types of FSC Markets
   * Retail & Premier Banking
   * Business & Commercial Banking
   * Wealth Management
