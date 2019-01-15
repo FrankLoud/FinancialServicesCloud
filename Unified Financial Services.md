@@ -34,7 +34,7 @@
 
 ![image](https://user-images.githubusercontent.com/2145211/51205141-d0612a80-18ca-11e9-9f59-26ab51721960.png)
 
-### Integrations with FSC
+### Some Popular Integrations with FSC
 
 * eMoney
 * MoneyGuidePro
