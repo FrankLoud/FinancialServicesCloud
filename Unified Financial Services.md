@@ -33,3 +33,11 @@
 ![image](https://user-images.githubusercontent.com/2145211/51205115-c3443b80-18ca-11e9-9adf-0a3588d68631.png)
 
 ![image](https://user-images.githubusercontent.com/2145211/51205141-d0612a80-18ca-11e9-9f59-26ab51721960.png)
+
+### Integrations with FSC
+
+* eMoney
+* MoneyGuidePro
+* Skience
+* Addepar
+
