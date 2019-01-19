@@ -29,13 +29,30 @@
 
 * Migration Needs are to be evaluated under 4 Architecture Domains
 * This is really a TOGAF Architecture Lingo 
-  * Business Migration
+  * Business Architecture
     * This will need to be a done in all categories of migration in detail. This is the most important aspect of migration to FSC.
-  * Application Migration
+  * Application Architecture
     * This will need to be a done in all categories of migration, especially with Integration as FSC is a Pre-built Package.
   * Data Migration
   * Technology Migration
     * This migration is generally managed by Salesforce as it is the SaaS Provider.
-    
+
+### System Landscape 
+
+* Transition from Account Centricity to Customer Centricity
+  * Change Management Impact
+  * How much of Business Transformation the organization is willing to undertake in given time.
+
+
+
+
+
+
+
+
+
+
+
+
 
 
