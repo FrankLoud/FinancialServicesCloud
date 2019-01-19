@@ -1,0 +1,41 @@
+## FSC Migration Considerations
+
+* We can divide FSC Migrations into 4 Steps
+  * Understanding the System Landscape
+  * Lightning Readiness
+  * Data Migration
+  * Understanding the Impact of the Individual Model vs Person Account Model
+  
+## Understanding the System Landscape
+
+* Understaning the Banking Landscape
+* GRP
+* Risk Management
+
+* Banking Domain (Where FSC Applies)
+  * FSC Started with the Wealth Management and it extended to Customer Centric Retail Banking.
+  * Now it moves into Insurance and HouseHold Banking
+  
+* 2nd Consideration: As-is status of the Customer Org
+  * 2 Types
+    * Green Field Implementation
+    * Brown Field Implementation
+      * From Existing Classic Org
+        * Could be using Individual Model
+        * Could be using Person Account Mode
+      * From Lightning Org
+        * Could be using Individual Model
+        * Could be using Person Account Model
+
+* Migration Needs are to be evaluated under 4 Architecture Domains
+* This is really a TOGAF Architecture Lingo 
+  * Business Migration
+    * This will need to be a done in all categories of migration in detail. This is the most important aspect of migration to FSC.
+  * Application Migration
+    * This will need to be a done in all categories of migration, especially with Integration as FSC is a Pre-built Package.
+  * Data Migration
+  * Technology Migration
+    * This migration is generally managed by Salesforce as it is the SaaS Provider.
+    
+
+
